@@ -1,0 +1,6 @@
+[submodule "parser_summerTask"]
+	path = parser_summerTask
+	url = https://github.com/AndreyTorkhov/SP22024_backend_Torkhov_BVT2203.git
+[submodule "front_summer_task"]
+	path = front_summer_task
+	url = https://github.com/AndreyTorkhov/SP22024_frontend_Torkhov_BVT2203-.git
